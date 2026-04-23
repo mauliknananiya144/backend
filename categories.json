@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "69e6685ffd78f09a6c864a81",
+    "name": "figma",
+    "isCompanyCategory": false,
+    "createdAt": "2026-04-20T17:54:39.793Z",
+    "updatedAt": "2026-04-20T17:54:39.793Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e672ee3570ce744f94c191",
+    "name": "sdcs",
+    "isCompanyCategory": false,
+    "createdAt": "2026-04-20T18:39:42.821Z",
+    "updatedAt": "2026-04-20T18:39:42.821Z",
+    "__v": 0
+  }
+]

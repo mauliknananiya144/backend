@@ -1,0 +1,40 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model Admin {
+  id       String @id @default(auto()) @map("_id") @db.ObjectId
+  username String @unique
+  email    String @unique
+  password String
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map(name: "admin")
+}
+
+model Resume {
+  id     String @id @default(auto()) @map("_id") @db.ObjectId
+  resume String
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map(name: "resume")
+}
+
+model PortfolioResume {
+  id     String @id @default(auto()) @map("_id") @db.ObjectId
+  resume String
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map(name: "portfolio_resume")
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "_id": "69e669a2fd78f09a6c864a82",
+    "title": "ggjhjbbb",
+    "description": "ggjhjbbbggjhjbbbggjhjbbbggjhjbbb",
+    "category": "Company",
+    "industry": "69e667befd78f09a6c864a7e",
+    "tools": [
+      "tools"
+    ],
+    "toolDetails": [
+      {
+        "name": "tools",
+        "icon": "bookfeet.jpg",
+        "_id": "69e66a86fd78f09a6c864aa5"
+      }
+    ],
+    "skills": [
+      "react"
+    ],
+    "skillDetails": [
+      {
+        "name": "react",
+        "icon": "àªàª®à«àªàª àªà«àªªàª¾ (6).png",
+        "_id": "69e66a86fd78f09a6c864aa6"
+      }
+    ],
+    "coverImage": "Tournamnet-poster.png",
+    "image": [
+      "WhatsApp_Image_2025-10-04_at_13.57.01_5f871fa0-removebg-preview.png",
+      "àªàª®à«àªàª àªà«àªªàª¾ (3).png"
+    ],
+    "icon": "ResultSem2.jpg",
+    "isHide": false,
+    "figmaUrl": "https://www.figma.com/design/cUSIzKaqBKriTWo1MiPmiQ/maulik-web?node-id=0-1&m=dev&t=jFdXXT9Ds9s1ak6i-1",
+    "secondaryTitle": "figma",
+    "secondaryDescription": "figma figma...",
+    "status": "LIVE",
+    "createdAt": "2026-04-20T18:00:02.670Z",
+    "updatedAt": "2026-04-20T18:03:50.772Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e675f03570ce744f94c1c0",
+    "title": "dharik",
+    "description": "dnjdnfsdnfnsf",
+    "category": "figma",
+    "industry": "69e667befd78f09a6c864a7e",
+    "tools": [
+      "tools"
+    ],
+    "toolDetails": [
+      {
+        "name": "tools",
+        "icon": "bookfeet.jpg",
+        "_id": "69e675f03570ce744f94c1c1"
+      }
+    ],
+    "skills": [
+      "react"
+    ],
+    "skillDetails": [
+      {
+        "name": "react",
+        "icon": "àªàª®à«àªàª àªà«àªªàª¾ (6).png",
+        "_id": "69e675f03570ce744f94c1c2"
+      }
+    ],
+    "coverImage": "àªàª®à«àªàª àªà«àªªàª¾ (3).png",
+    "image": [
+      "àªàª®à«àªàª àªà«àªªàª¾ (6).png"
+    ],
+    "icon": "àªàª®à«àªàª àªà«àªªàª¾ (4).png",
+    "isHide": false,
+    "figmaUrl": "https://www.figma.com/design/cUSIzKaqBKriTWo1MiPmiQ/maulik-web?node-id=0-1&m=dev&t=jFdXXT9Ds9s1ak6i-1",
+    "secondaryTitle": "dzvc",
+    "secondaryDescription": "cxvv",
+    "status": "LIVE",
+    "createdAt": "2026-04-20T18:52:32.324Z",
+    "updatedAt": "2026-04-20T18:52:32.324Z",
+    "__v": 0
+  }
+]
