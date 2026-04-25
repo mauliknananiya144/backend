@@ -6,7 +6,10 @@ const routes = require("./routes/index")
 
 const app = express();
 
-app.use(cors());
+app.use(cors([
+  "https://protfolio-admin.netlify.app",
+  "https://maulik-studio.netlify.app"
+  ]));
 app.use(morgan("dev"));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
