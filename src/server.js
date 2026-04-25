@@ -2,6 +2,7 @@ const app = require("./app");
 const mongoose = require("mongoose");
 
 const PORT = process.env.PORT || 3000;
+console.log("PORT",PORT)
 const DATABASE_URL = process.env.DATABASE_URL;
 console.log("DATABASE URI", DATABASE_URL)
 app.get("/", (req, res) => {
